@@ -1,0 +1,40 @@
+
+  body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  button {
+    border-radius: 25px;
+    color:white;
+    background-color:blue;
+    font-size: medium;
+    font-weight: bold;
+    padding: 1rem 2rem;
+}
+
+    #notfound {
+    text-align: center;
+}
+
+    .notfound-404 {
+    height: 280px;
+    position: relative;
+    z-index: -1;
+  }
+  
+    .notfound-404 h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    margin: 10px;
+    font-weight: 900;
+    text-align: center;
+    background: url('../img/bg.jpg') no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+  
